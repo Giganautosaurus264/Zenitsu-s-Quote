@@ -1,0 +1,23 @@
+/* Motivation Meme Project */
+/* Giganautosaurus 264 */
+/* giganautosaurus264@gmail.com */
+
+body {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+img {
+    width:600px;
+    height:400px;
+    border:10px solid #ffa600;
+}
+
+h1 {
+    margin-top: -5px;
+    margin-bottom: -7.5px;
+    text-transform: uppercase;
+    font-size: 70px;
+    font-family: 'Pirata One', system-ui;
+    font-weight: lighter;
+}
